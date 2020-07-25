@@ -30,7 +30,7 @@ In this module, you will import a dataset containing information about the timel
 
 ## Expressions of Gratitude 🎁
 
-* Tell others about this project 🤓📢.
+* Tell others about this project, thanks 🤓📢.
 
 
 ---
